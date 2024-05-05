@@ -16,6 +16,12 @@ header {
   background-color: black;
 }
 
+header p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #ff00ff;
+}
+
 .logo-container {
   margin-bottom: 10px;
 }
